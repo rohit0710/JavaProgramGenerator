@@ -1,0 +1,7 @@
+<expression>:=<access_type> <var> = <exp> <op> <exp>
+<op>:=+|-|*
+<exp>:=<exp> <op> <exp> | [0-9]
+<var>:=[a-z^]
+<class_name>:=<access_modifier> 'class' <class_name> '{' <expression> '}'
+<access_modifier>:=public|private
+<access_type>:=int|float
