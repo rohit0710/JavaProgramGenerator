@@ -34,7 +34,7 @@ The configuration file (src/main/resources/config.xml) serves the purpose of def
 
 The flow of our application is as below;
 
- ![image](JavaProgramGenerator/flow_chart.PNG)
+ ![image](https://github.com/rohit0710/JavaProgramGenerator/blob/master/flow_chart.PNG)
 
 ## Setup and Running the project
 1. Clone the project from `https://github.com/rohit0710/JavaProgramGenerator.git`
